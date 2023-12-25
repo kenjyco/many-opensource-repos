@@ -24,3 +24,9 @@ Source the `repos.sh` file and use the shell functions defined in there.
 
 % clone-opensource
 ```
+
+Also feel free to check out [this
+gist](https://gist.github.com/kenjyco/28664a963635d96e497d2b6caf7bcc70), a
+historical timeline and collection of Wikipedia links for open-source
+terms/concepts, programming languages, text/stream editing tools,
+companies/organizations, and people behind them.
