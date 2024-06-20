@@ -680,7 +680,7 @@ OPEN_SOURCE_JAVASCRIPT_REPOS=(
     https://github.com/pinterest/teletraan
     https://github.com/postmanlabs/newman
     https://github.com/postmanlabs/postman-collection
-    https://github.com/postmanlabs/postman-docs
+    # https://github.com/postmanlabs/postman-docs   # requires login
     https://github.com/prettier/prettier
     https://github.com/rickbergfalk/sqlpad
     https://github.com/sequelize/sequelize
@@ -1349,6 +1349,7 @@ OPEN_SOURCE_MIXED_REPOS=(
 
 clone-opensource() {
     oldpwd=$(pwd)
+    export GIT_TERMINAL_PROMPT=0
     mkdir -p "$OPEN_SOURCE_ALGORITHMS_REPOS_DIR"
     cd "$OPEN_SOURCE_ALGORITHMS_REPOS_DIR" || return 1
     for repo in "${OPEN_SOURCE_ALGORITHMS_REPOS[@]}"; do
@@ -1609,7 +1610,7 @@ if [[ -d "$OPEN_SOURCE_REPOS_DIR" ]]; then
     if type repos-update &>/dev/null; then
         opensource-update-all() {
             cd "$OPEN_SOURCE_REPOS_DIR"
-            repos-update 2>&1 | tee update-all--$(date +'%Y-%m%d--%a--%H%M').txt
+            GIT_TERMINAL_PROMPT=0 repos-update 2>&1 | tee update-all--$(date +'%Y-%m%d--%a--%H%M').txt
         }
     fi
 fi
