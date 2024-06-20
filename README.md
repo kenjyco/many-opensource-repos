@@ -24,6 +24,13 @@ Source the `repos.sh` file and use the shell functions defined in there.
 
 % clone-opensource
 ```
+If you have <https://github.com/kenjyco/base> setup and have the `repos-update`
+script available, you can use the `opensource-update-all` shell func defined in
+`repos.sh`
+
+```
+% source ./repos.sh; clone-opensource; opensource-update-all
+```
 
 Also feel free to check out [this
 gist](https://gist.github.com/kenjyco/28664a963635d96e497d2b6caf7bcc70), a
