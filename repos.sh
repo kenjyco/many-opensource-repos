@@ -513,6 +513,10 @@ OPEN_SOURCE_GO_REPOS=(
     https://github.com/nginxinc/kubernetes-ingress
     https://github.com/pebbe/zmq4
     https://github.com/pingcap/tidb
+    https://github.com/projectdiscovery/httpx
+    https://github.com/pulumi/examples
+    https://github.com/pulumi/kubespy
+    https://github.com/pulumi/pulumi
     https://github.com/rancher/k3s
     https://github.com/rancher/rancher
     https://github.com/sachaos/viddy
@@ -731,6 +735,8 @@ OPEN_SOURCE_JAVASCRIPT_REPOS=(
     https://github.com/vuejs/vue-apollo
     https://github.com/webpack/webpack
     https://github.com/webpack/webpack-dev-server
+    https://github.com/webrtc/apprtc
+    https://github.com/webrtc/samples
     https://github.com/winstonjs/winston
     https://github.com/xojs/xo
     https://github.com/yarnpkg/yarn
@@ -773,6 +779,7 @@ OPEN_SOURCE_LUA_REPOS=(
     https://github.com/Kong/kong
     https://github.com/ThePrimeagen/harpoon
     https://github.com/ThePrimeagen/vim-be-good
+    https://github.com/jitsi/docker-jitsi-meet
     https://github.com/twitter/torch-dataset
     https://github.com/twitter/torch-distlearn
 )
@@ -924,6 +931,7 @@ OPEN_SOURCE_PYTHON_REPOS=(
     https://github.com/jazzband/tablib
     https://github.com/jeffkaufman/icdiff
     https://github.com/joke2k/faker
+    https://github.com/jordaneremieff/mangum
     https://github.com/jpadilla/pyjwt
     https://github.com/jrnl-org/jrnl
     https://github.com/jupyter/jupyter
@@ -941,6 +949,7 @@ OPEN_SOURCE_PYTHON_REPOS=(
     https://github.com/linode/linode-cli
     https://github.com/localstack/localstack
     https://github.com/locustio/locust
+    https://github.com/ludwig-ai/ludwig
     https://github.com/lxml/lxml
     https://github.com/madzak/python-json-logger
     https://github.com/mahmoud/glom
@@ -1276,6 +1285,7 @@ OPEN_SOURCE_TYPESCRIPT_REPOS=(
     https://github.com/howtographql/howtographql
     https://github.com/imolorhe/altair
     https://github.com/ionic-team/ionic
+    https://github.com/jitsi/jitsi-meet
     https://github.com/kriasoft/nodejs-api-starter
     https://github.com/learnapollo/learnapollo
     https://github.com/microsoft/TypeScript
