@@ -830,6 +830,7 @@ OPEN_SOURCE_PYTHON_REPOS=(
     https://github.com/AlexIoannides/pyspark-example-project
     https://github.com/Arize-ai/phoenix
     https://github.com/Bogdanp/dramatiq
+    https://github.com/Bogdanp/molten
     https://github.com/HariSekhon/DevOps-Python-tools
     https://github.com/JoshData/python-email-validator
     https://github.com/Julian/jsonschema
@@ -916,6 +917,7 @@ OPEN_SOURCE_PYTHON_REPOS=(
     https://github.com/graphql-python/graphene-django
     https://github.com/great-expectations/great_expectations
     https://github.com/home-assistant/core
+    https://github.com/hugapi/hug
     https://github.com/huggingface/transformers
     https://github.com/ipython/ipython
     https://github.com/jakubroztocil/httpie
@@ -1078,9 +1080,10 @@ OPEN_SOURCE_PYTHON_ASYNC_REPOS=(
     https://github.com/encode/orm
     https://github.com/encode/starlette
     https://github.com/encode/uvicorn
+    https://github.com/falconry/falcon
     https://github.com/fastapi-users/fastapi-users
-    https://github.com/huge-success/sanic
     https://github.com/mongodb/motor
+    https://github.com/sanic-org/sanic
     https://github.com/taoufik07/responder
     https://github.com/tiangolo/fastapi
     https://github.com/tornadoweb/tornado
