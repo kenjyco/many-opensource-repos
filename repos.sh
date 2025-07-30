@@ -491,6 +491,7 @@ OPEN_SOURCE_GO_REPOS=(
     https://github.com/junegunn/fzf
     https://github.com/jwilder/docker-gen
     https://github.com/keybase/client
+    https://github.com/knative/serving
     https://github.com/kubeless/kubeless
     https://github.com/kubernetes-sigs/controller-runtime
     https://github.com/kubernetes-sigs/kind
@@ -837,6 +838,7 @@ OPEN_SOURCE_PYTHON_REPOS=(
     https://github.com/Legrandin/pycryptodome
     https://github.com/MagicStack/httptools
     https://github.com/Mailu/Mailu
+    https://github.com/Marker-Inc-Korea/AutoRAG
     https://github.com/Miserlou/Zappa
     https://github.com/Netflix/aminator
     https://github.com/Netflix/bless
@@ -847,6 +849,7 @@ OPEN_SOURCE_PYTHON_REPOS=(
     https://github.com/Netflix/metaflow
     https://github.com/Netflix/security_monkey
     https://github.com/Netflix/vmaf
+    https://github.com/Striveworks/valor
     https://github.com/Supervisor/supervisor
     https://github.com/Textualize/rich
     https://github.com/Textualize/rich-cli
@@ -932,6 +935,7 @@ OPEN_SOURCE_PYTHON_REPOS=(
     https://github.com/jazzband/prettytable
     https://github.com/jazzband/tablib
     https://github.com/jeffkaufman/icdiff
+    https://github.com/jina-ai/vectordb
     https://github.com/joke2k/faker
     https://github.com/jordaneremieff/mangum
     https://github.com/jpadilla/pyjwt
@@ -942,16 +946,19 @@ OPEN_SOURCE_PYTHON_REPOS=(
     https://github.com/jupyterhub/binderhub
     https://github.com/jupyterhub/jupyterhub
     https://github.com/jupyterhub/the-littlest-jupyterhub
+    https://github.com/kagisearch/vectordb
     https://github.com/kaxap/arl
     https://github.com/kedro-org/kedro
     https://github.com/keon/algorithms
     https://github.com/keras-team/keras
     https://github.com/kivy/kivy
     https://github.com/kivy/python-for-android
+    https://github.com/kserve/kserve
     https://github.com/linode/linode-cli
     https://github.com/localstack/localstack
     https://github.com/locustio/locust
     https://github.com/ludwig-ai/ludwig
+    https://github.com/log10-io/log10
     https://github.com/lxml/lxml
     https://github.com/madzak/python-json-logger
     https://github.com/mahmoud/glom
@@ -1036,6 +1043,7 @@ OPEN_SOURCE_PYTHON_REPOS=(
     https://github.com/sshuttle/sshuttle
     https://github.com/streamlit/streamlit
     https://github.com/stub42/pytz
+    https://github.com/superduper-io/superduper
     https://github.com/sympy/sympy
     https://github.com/tdda/tdda
     https://github.com/tensorflow/magenta
